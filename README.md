@@ -1,5 +1,5 @@
-# ONGC
-Stock Price Prediction using LSTM
+# ONGC Stock Price Prediction
+
 <img width="599" alt="image" src="https://user-images.githubusercontent.com/70332585/174426168-b367ef39-374f-42a2-a239-dce5fb936a95.png">
 
 1. [Project Motivation](#ProjectMotivation)
