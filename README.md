@@ -42,5 +42,5 @@ Also uploaded above by the name : ["ONGC Historical Data.csv"](https://github.co
 
 ## 5. Result<a name="results"></a>
 
-The details of the results are shown in the jupyter notebook itself along the source code. Click here to see the result -> [Result](https://github.com/piyushkumar08/NIDDK/blob/main/NIDDK.ipynb](https://github.com/piyushkumar08/ONGC/blob/main/ONGC.ipynb) 
+The details of the results are shown in the jupyter notebook itself along the source code. Click here to see the result -> [Result](https://github.com/piyushkumar08/ONGC/blob/main/ONGC.ipynb) 
 
